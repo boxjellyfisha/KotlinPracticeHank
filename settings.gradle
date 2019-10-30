@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        maven {
+            url { 'http://dl.bintray.com/kotlin/kotlin-dev' }
+        }
+    }
+}
+
+rootProject.name = 'KotlinHankRank'
+
